@@ -1,1 +1,16 @@
+os
+requests
+socket
+hashlib
+subprocess
+sys
+platform
+dns.resolver
+json
+urllib.parse
+nmap
+smbprotocol
+smbprotocol import SMBConnection
+urllib.parse import urlparse
+requests.auth import HTTPBasicAuth
 
